@@ -1,5 +1,5 @@
 I've included David's original paper in pdf format in this repository. I also built the package with pip
-by downloading this whole directory and from the conda prompt typing : pip install =e <yourpathto/bayesian_changepoint_detection>
+by downloading this whole directory and from the conda prompt typing : pip install -e <yourpathto/bayesian_changepoint_detection>
 
 It will build a package called bayescd version 0.4.  But in your python files you must import it with the statement
 <import bayesian_changepoint_detection> as the name for the package, not bayescd.
@@ -9,7 +9,7 @@ I suggest starting a jupyter server and work through example_code.ipynb and baye
 
 Im thinking of building a poetry .lock and .toml file for this project and will post them if I do.
 
-Anyone seriously interested in this subject should read the pdf here in the repository written by my late, good friend David MacKay. One of the finest scientists and all-around human beings I have had the chance to kn
+Anyone seriously interested in this subject should read the pdf here in the repository written by my late, good friend David MacKay. One of the finest scientists and all-around human beings I have had the chance to know.
 
 
 Bayesian Changepoint Detection
